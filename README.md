@@ -70,4 +70,4 @@ After power: 1.9994 2.99982 4.9997
 
 # Submit
 
-Please upload your `myMath.h` file to `myCourses > Assignments > HW10`. Do not submit *.docx, *.pdf, *.txt, or *.zip file.# eeee346-f26-hw9
+Please upload your `myMath.h` file to `myCourses > Assignments > HW9`. Do not submit *.docx, *.pdf, *.txt, or *.zip file.
